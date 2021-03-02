@@ -40,9 +40,9 @@
 
 // You should get Auth Token in the Blynk App.
 // Go to the Project Settings (nut icon).
-char auth[] = "I_BSjdz7ieyuh-vSaqlN-82erlItCfm5";
-char ssid[] = "Pentea's WiFi";
-char pass[] = "@p@teului26A!";
+char auth[] = "";
+char ssid[] = "";
+char pass[] = "";
 
 int relayBedroom1_1 = 15; // for ESP32 microcontroller
 int relayBedroom1_2 = 2; // for ESP32 microcontroller
